@@ -1,5 +1,5 @@
 ## Hi, I'm Kai, a developer from Viet Nam 👋
-
+How to reach me: viaivianh7@gmail.com
 <!--
 **kaidev-vn/kaidev-vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
